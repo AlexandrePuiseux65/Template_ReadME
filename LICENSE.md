@@ -1,6 +1,6 @@
 # PLASTIC OMNIUM PRIVATE SOFTWARE LICENSE AGREEMENT
 
-This Plastic Omnium Private Software License Agreement (the "Agreement") is entered into by and between Plastic Omnium, a company incorporated under the laws of [Country], with its principal place of business at [Company Address] ("Licensor"), and the authorized user ("Licensee") as identified in the accompanying purchase or download order.
+This Plastic Omnium Private Software License Agreement (the "Agreement") is entered into by and between Plastic Omnium, a company incorporated under the laws of France, with its principal place of business at "Bâtiment A 1 Allée Pierre Burelle, 92593 Levallois-Perret" ("Licensor"), and the authorized user ("Licensee") as identified in the accompanying purchase or download order.
 
 WHEREAS, Licensor owns and holds the intellectual property rights to certain software code (the "Licensed Code") that it desires to license to Licensee for use under the terms and conditions set forth in this Agreement;
 
@@ -25,15 +25,21 @@ THE LICENSED CODE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 IN NO EVENT SHALL LICENSOR BE LIABLE TO LICENSEE OR ANY THIRD PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE USE OF THE LICENSED CODE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 ## 7. GOVERNING LAW
-This Agreement shall be governed by and construed in accordance with the laws of [Country], without regard to its conflict of laws principles.
+This Agreement shall be governed by and construed in accordance with the laws of France, without regard to its conflict of laws principles.
 
 ## 8. ENTIRE AGREEMENT
 This Agreement constitutes the entire understanding and agreement between the parties concerning the subject matter hereof and supersedes all prior and contemporaneous negotiations and agreements, whether oral or written.
 
 IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
 
-_____________________________                _____________________________
-Plastic Omnium, Licensor                        Licensee
-By: ____________________________             By: ____________________________
-Title: ___________________________            Title: ___________________________
-Date: ____________________________            Date: ____________________________
+_____________________________               
+<span style="color: red"> Plastic Omnium, Licensor </span>                   
+By: ____________________________            
+Title: ___________________________            
+Date: ____________________________  
+
+_____________________________  
+<span style="color: green"> Licensee </span> 
+By: ____________________________            
+Title: ___________________________            
+Date: ____________________________  
