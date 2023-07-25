@@ -42,7 +42,7 @@ In last, you can also see the command and more information on how to use this co
 
 ## Start
 
-This program containe a executable file of the name "createHexFile.py". 
+This program containe a executable file of the name "createHexFile.exe". 
 It has the following path : 
 ```
 C:\...\GenerateCalibration\build\exe.win-amd64-3.7\createHexFile.exe
