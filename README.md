@@ -68,6 +68,8 @@ I'd like to thank my internship supervisor Jossri JEBABLI for his advice and hel
 
 ## License
 
-![Alt Text](https://media.giphy.com/media/3orif4LwcbQhWZVsze/giphy.gif)
+This tools was created for the OP'nSoft division of the Plastic Omnium group in the context of the workpackage 5.
+If you need more information, use the license for information :
+      [LICENSE.md](LICENSE.md)
 
-[LICENSE.md](LICENSE.md) for more information
+![Alt Text](https://media.giphy.com/media/3orif4LwcbQhWZVsze/giphy.gif)
