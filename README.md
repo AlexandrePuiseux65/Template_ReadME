@@ -15,7 +15,7 @@ C:\Users\alexandre.puiseux>cd C:/link/of/the/project
 C:\Work\CF\GenerateHexFromExcel>tree /f /a > structure_arborescence.txt
 ```
 
-![alt text](C:\Work\CF\GenerateCalibration\GenerateHexFromExcel\structure_arborescence.txt)
+![alt text](structure_arborescence.txt)
 
 ## Utilization
 
