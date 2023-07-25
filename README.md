@@ -14,7 +14,7 @@ To update it, you can use these command :
 C:\Users\alexandre.puiseux>cd C:/link/of/the/project
 C:\Work\CF\GenerateHexFromExcel>tree /f /a > structure_arborescence.txt
 ```
-! [Pyhton.py](structure_arborescence.txt)
+*[Hierarchy](structure_arborescence.txt)
 
 ## Utilization
 
