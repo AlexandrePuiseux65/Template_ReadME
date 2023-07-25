@@ -61,7 +61,7 @@ The code will this time created a new Calibration File of the excel file you wic
 ```shell
 C:\Users\alexandre.puiseux> C:\...\GenerateCalibration2\build\exe.win-amd64-3.7\createHexFile.exe -h
 ```
-In last, you can also see the command and more information on how to use this code by use the argument -h or -help.
+In last, you can also see the command and more information on how to use this code by use the argument -h or --help.
 
 ## Build with
 
