@@ -33,14 +33,14 @@ This Agreement constitutes the entire understanding and agreement between the pa
 IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
 
 _____________________________               
-<span style="color: red"> Plastic Omnium, Licensor </span>  
+### Plastic Omnium, Licensor 
 
 By: ____________________________            
 Title: ___________________________            
 Date: ____________________________  
 
 _____________________________  
-<span style="color: green"> Licensee </span> 
+### Licensee 
 
 By: ____________________________            
 Title: ___________________________            
