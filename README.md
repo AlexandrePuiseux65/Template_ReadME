@@ -70,6 +70,6 @@ I'd like to thank my internship supervisor Jossri JEBABLI for his advice and hel
 
 In the context of the workpackage 5, this tool was developed for the OP'nSoft division of the Plastic Omnium group. For additional information, please refer to the license provided.
 
-[LICENSE.md](LICENSE.md)
+[LICENSE](LICENSE.md)
 
 ![Alt Text](https://media.giphy.com/media/3orif4LwcbQhWZVsze/giphy.gif)
