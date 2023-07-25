@@ -1,8 +1,8 @@
 # PLASTIC OMNIUM PRIVATE SOFTWARE LICENSE AGREEMENT
 
-This Plastic Omnium Private Software License Agreement (the "Agreement") is entered into by and between Plastic Omnium, a company incorporated under the laws of France, with its principal place of business at "Bâtiment A 1 Allée Pierre Burelle, 92593 Levallois-Perret" ("Licensor"), and the authorized user ("Licensee") as identified in the accompanying purchase or download order.
+This Plastic Omnium Private Software License Agreement (the "Agreement") is entered into by and between Plastic Omnium, a company incorporated under the laws of France, with its principal place of business at "Bâtiment A 1 Allée Pierre Burelle, 92593 Levallois-Perret", and the authorized user as identified in the accompanying purchase or download order.
 
-WHEREAS, Licensor owns and holds the intellectual property rights to certain software code (the "Licensed Code") that it desires to license to Licensee for use under the terms and conditions set forth in this Agreement;
+WHEREAS, Licensor owns and holds the intellectual property rights to certain software code that it desires to license to Licensee for use under the terms and conditions set forth in this Agreement;
 
 NOW, THEREFORE, in consideration of the mutual promises and covenants contained herein, the parties agree as follows:
 
