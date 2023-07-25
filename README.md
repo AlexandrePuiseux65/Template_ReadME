@@ -41,11 +41,28 @@ In last, you can also see the command and more information on how to use this co
 
 ## Start
 
+### 1- Testing execution with .exe
+
 This program containe a executable file of the name "createHexFile.exe". 
 It has the following path : 
+```shell
+C:\Users\alexandre.puiseux> C:\...\GenerateCalibration2\build\exe.win-amd64-3.7\createHexFile.exe
 ```
-C:\Users\alexandre.puiseux>start C:\...\GenerateCalibration2\build\exe.win-amd64-3.7\createHexFile.exe
+It will execute the program with one argument, exactly like the part 1 of Utilisation.
+
+### 2- Use execution with .exe
+
+```shell
+C:\Users\alexandre.puiseux> C:\...\GenerateCalibration2\build\exe.win-amd64-3.7\createHexFile.exe C:/link/of/the/excel/file.xlsm fistAddress sizeOfData defaultValues excelSheet
 ```
+The code will this time created a new Calibration File of the excel file you wich, next to it. This way, the code can also be use in the cmd, or it can be call and use in any other code (Php, JavaScript, ect...). 
+
+### 3- Help
+```shell
+C:\Users\alexandre.puiseux> C:\...\GenerateCalibration2\build\exe.win-amd64-3.7\createHexFile.exe -h
+```
+In last, you can also see the command and more information on how to use this code by use the argument -h or -help.
+
 ## Build with
 
 * [Pyhton.py](https://www.python.org/) - Python (back-end)
